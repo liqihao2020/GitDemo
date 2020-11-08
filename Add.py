@@ -5,3 +5,5 @@
 # fun def2
 
 # local def3
+
+# local def5
