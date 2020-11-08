@@ -9,3 +9,5 @@
 # remote def4
 
 # local def5
+
+# local def6
